@@ -5,21 +5,28 @@ const moments = [
         date: "May Holidays",
         location: "straight into my heart",
         description: "The moment I knew you were something special. The way you made me adore you made the whole world fade away.",
-        image: "https://media.discordapp.net/attachments/1261311956049203333/1483082035860996186/552308969_1148944383817013_8779871374706653354_n.jpg?ex=69b94b47&is=69b7f9c7&hm=97c00543d0a92bf3477ce9a4316df19724bf6e95c0a2dc9ace547f470522764b&=&format=webp&width=266&height=590"
+        image: "images/chat1.png"
     },
     {
-        title: "Our First Date",
-        date: "February",
-        location: "Mimic",
-        description: "Watching you use 100% fo ur brain was the most adorable I've ever seen. Just us.",
-        image: "https://media.discordapp.net/attachments/1261311956049203333/1483083004820586576/Screenshot_2026-02-14_174729.png?ex=69b94c2e&is=69b7faae&hm=2b7d724bb88428a0b797eb25dfdda866ddc91140e1f1f446a78d641978d2941e&=&format=webp&quality=lossless&width=1006&height=590"
+        title: "Our Late Night Chats",
+        date: "Every Day",
+        location: "Under the stars",
+        description: "The sweet confessions and yapping we do. Knowing that you enjoy listening to me yap is the best feeling in the world.",
+        image: "images/chat2.png"
     },
     {
         title: "The day we met",
         date: "Every day in may, 2025",
         location: "Our favorite game :3",
-        description: "Out of millions of games, and millions of servers, I joined yours, and I talked with you, this wasn't a coincidence",
-        image: "https://media.discordapp.net/attachments/1261311956049203333/1483083005361918147/Screenshot_2026-02-14_192033.png?ex=69b94c2e&is=69b7faae&hm=15a9b04d83a085c7f591720dbd32790f8b1bacb94f16ba03acc3f2a45696a29d&=&format=webp&quality=lossless"
+        description: "Out of millions of games, and millions of servers, I joined yours, and I talked with you, this wasn't a coincidence.",
+        image: "images/avatar_street.png"
+    },
+    {
+        title: "Our First Date",
+        date: "February",
+        location: "Mimic",
+        description: "Watching you use 100% of your brain was the most adorable thing I've ever seen. Just us, dancing and enjoying each other's presence.",
+        image: "images/avatar_dance.png"
     }
 ];
 
